@@ -1,0 +1,31 @@
+{
+  "name": "streamjs",
+  "version": "1.0.0",
+  "description": "Lib to help with array and list manipulations in javascript",
+  "main": "stream.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tisvasconcelos/streamjs.git"
+  },
+  "keywords": [
+    "stream",
+    "array",
+    "object",
+    "list"
+  ],
+  "author": "Tiago Vasconcelos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tisvasconcelos/streamjs/issues"
+  },
+  "homepage": "https://github.com/tisvasconcelos/streamjs#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
